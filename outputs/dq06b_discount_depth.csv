@@ -1,0 +1,4 @@
+grp,invoices,discount_pct_of_subtotal,avg_invoice_discount_pct
+0 coupons,25474,0.0,0.0
+1 coupon,5894,10.5,7.8
+2+ coupons,855,38.2,51.3

@@ -1,0 +1,10 @@
+driver,mrr_effect,arr_effect,pct_of_shortfall
+new business (conversion decline),-55718.0,-668621.0,27.4
+expansion,-11410.0,-136915.0,5.6
+contraction,461.0,5530.0,-0.2
+voluntary churn - volume effect (bigger base),-23281.0,-279369.0,11.4
+voluntary churn - rate effect (customers leaving faster),-67715.0,-812583.0,33.2
+involuntary churn - volume effect,-22223.0,-266675.0,10.9
+involuntary churn - dunning outage Feb-Jun 2025,-42018.0,-504210.0,20.6
+involuntary churn - other rate effect,18204.0,218443.0,-8.9
+TOTAL (net new MRR 2025 minus 2024),-203700.0,-2444400.0,100.0

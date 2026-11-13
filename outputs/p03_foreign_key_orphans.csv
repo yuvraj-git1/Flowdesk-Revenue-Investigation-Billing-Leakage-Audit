@@ -1,0 +1,8 @@
+fk,orphans
+subscriptions->accounts,0
+plan_changes->subscriptions,0
+invoices->subscriptions,0
+payments->invoices,0
+refunds->payments,0
+redemptions->coupons,0
+invoices.coupon_redemption->redemptions,0

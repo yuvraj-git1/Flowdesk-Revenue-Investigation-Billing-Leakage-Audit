@@ -1,0 +1,7 @@
+issue,n
+"paid invoice, no succeeded payment",0
+succeeded payment on non-paid invoice,0
+succeeded amount <> invoice total,0
+payments dated after 2025-12-31,8
+uncollectible invoices,695
+void invoices,121

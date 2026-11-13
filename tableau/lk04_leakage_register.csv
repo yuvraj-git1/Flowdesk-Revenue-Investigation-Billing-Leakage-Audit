@@ -1,0 +1,6 @@
+cause,accounts,arr_lost_to_cause,cash_leaked_to_date,arr_impact_today,recoverable_low,recoverable_base,recoverable_high,evidence_strength
+"Dunning outage (failed payments never retried, Feb-Jun 2025)",313,488344.0,0.0,488344.0,97669.0,195338.0,293006.0,proven
+Unbilled SSO seats (provisioned > billed),57,187891.0,215923.0,187891.0,93946.0,140918.0,187891.0,proven
+Coupon stacking (2+ non-stackable coupons),137,9673.0,75686.0,9673.0,4837.0,9673.0,9673.0,proven (ARR still running is small; most coupons expired)
+"Pricing error (billed at half price, Mar 3-9 2025)",25,0.0,7372.0,0.0,0.0,0.0,0.0,proven; one-time back-bill only
+Duplicate refunds,5,0.0,801.0,0.0,0.0,0.0,0.0,proven; one-time recovery only

@@ -1,0 +1,13 @@
+k,n,d
+accounts.account_id,39974,39974
+subscriptions.subscription_id,4185,4185
+subscriptions.account_id (1 sub/acct?),4185,4185
+plan_changes.plan_change_id,7813,7813
+invoices.invoice_id,33039,33039
+"invoices.(subscription,period_start)",33039,33039
+payments.payment_id,35149,35149
+"payments.(invoice,attempt)",35149,35149
+refunds.refund_id,714,714
+refunds.payment_id (1 refund/payment?),714,709
+coupon_redemptions.id,1172,1172
+"seat_usage.(account,month)",252168,252168
